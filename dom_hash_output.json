@@ -1,0 +1,14 @@
+{
+  "hash_tree_1": {
+    "branch_path_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "attributes_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "xpath_hash": "c026af727c85205862d97472fb0f47873ccd20a66f1a5a3b3765cfc6aee6798c"
+  },
+  "hash_tree_2": {
+    "branch_path_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "attributes_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "xpath_hash": "c026af727c85205862d97472fb0f47873ccd20a66f1a5a3b3765cfc6aee6798c"
+  },
+  "are_same": true,
+  "differences": null
+}
